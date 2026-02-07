@@ -7,16 +7,16 @@
   "featuredApps": [],
   "apps": [
     {
-      "name": "YouTube",
+      "name": "Huduri",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google LLC",
-      "subtitle": "Video streaming",
+      "subtitle": "Hudury",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/92/1d/2f921d8a-4d0e-2f8d-0d6d-7e1d4c0b1b45/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "version": "1.33",
+      "version": "8.3",
       "versionDate": "2026-02-07",
       "size": 120000000,
-      "downloadURL": "https://github.com/Zayedii/My-apps/releases/download/V1.1/Youtube.ipa",
-      "localizedDescription": "Watch videos on YouTube."
+      "downloadURL": "https://github.com/Zayedii/My-apps/releases/download/V1.1/myhhh.ipa",
+      "localizedDescription": "location."
     }
   ]
 }
