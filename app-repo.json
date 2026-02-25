@@ -15,8 +15,20 @@
       "version": "1.0",
       "versionDate": "2026-02-07",
       "size": 120000000,
-      "downloadURL": "https://github.com/Zayedii/My-apps/releases/download/V8.3/myhhh.ipa",
+      "downloadURL": "https://github.com/Zayedii/My-apps/releases/download/v1.0/YouTube.ipa",
       "localizedDescription": "Watch videos on YouTube."
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify Ltd.",
+      "subtitle": "Music streaming",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/0a/0d/8b0a0d0a-1d4e-5d7f-6e9a-123456789abc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "version": "1.0",
+      "versionDate": "2026-02-07",
+      "size": 130000000,
+      "downloadURL": "https://github.com/Zayedii/My-apps/releases/download/V5.5.1/Mww.ipa",
+      "localizedDescription": "Listen to millions of songs and podcasts."
     }
   ]
 }
