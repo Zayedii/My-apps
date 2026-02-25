@@ -1,9 +1,9 @@
 {
-  "name": "My Apps",
-  "identifier": "my-apps",
+  "name": " تطبيقات البصمة ",
+  "identifier": " التطبيقات ",
   "iconURL": "https://i.imgur.com/wBvUMqF.jpeg",
-  "subtitle": "My personal IPA repo",
-  "description": "Collection of my apps",
+  "subtitle": " المصدر الخاص لتطبيقات البصمة ",
+  "description": " التطبيقات المتوفرة ",
   "featuredApps": [],
   "apps": [
     {
