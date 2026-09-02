@@ -20,13 +20,13 @@
     },
     {
       "name": "Ma'an",
-      "bundleIdentifier": "sa.gov.moh",
-      "developerName": "Mawared+",
+      "bundleIdentifier": "com.maan.co",
+      "developerName": "Ma'an+",
       "subtitle": "M تغيير الموقع داخل التطبيق ",
       "iconURL": "https://play-lh.googleusercontent.com/QFUNzWU6KeBvZHKzYXrrC5hWnpe-3Qs4xDOWuutRzHqUXxvME5CMUJjxH1nN4EDM5yN6T5ZBS_MdpmUBb9WKYZQ=w480-h960",
-      "version": "1.0.15",
-      "versionDate": "2026-06-18",
-      "size": 41200000,
+      "version": "1.0.16",
+      "versionDate": "2026-09-01",
+      "size": 33700000,
       "downloadURL": "https://github.com/Zayedii/My-apps/releases/download/1.0.15/maan.ipa",
       "localizedDescription": "Change app location."
     }
